@@ -46,4 +46,4 @@ A digital healthcare assessment platform designed to improve caregiver assessmen
 
 📧 Email: asingoclarissa@gmail.com
 
-🔗 LinkedIn: [Add your LinkedIn URL here]
+🔗 LinkedIn:www.linkedin.com/in/clarissa-asingo-0341b0359
